@@ -1,0 +1,21 @@
+const products = [
+  {
+    name: "Samsung Galaxy",
+    category: "electronics",
+  },
+  {
+    name: "Motorola V3",
+    category: "electronics",
+  },
+  {
+    name: "Iphone 12",
+    category: "electronics",
+  },
+  {
+    name: "Skippy",
+    category: "grocery store",
+  },
+];
+
+
+module.exports = {products}

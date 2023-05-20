@@ -1,0 +1,31 @@
+#root {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.hover-item:hover {
+    background-color: rgba(128, 128, 128, 0.084);
+}
+
+.autocomplete-modal {
+    max-height: 50vh;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.z-index-first {
+    z-index: 100;
+}
+
+.input-spacing {
+    max-width: 700px;
+    margin: 15px;
+}
+
+.container-spacing {
+    max-width: 1200px;
+    margin: 20px;
+}
